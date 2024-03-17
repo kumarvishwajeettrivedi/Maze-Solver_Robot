@@ -42,7 +42,6 @@ This project is licensed under the MIT License. You are free to use, modify, and
 Acknowledgments:
 This project was inspired by the desire to explore robotics and autonomous navigation. Special thanks to the Arduino community for their valuable resources and support.
 
-Contact:
-For any inquiries or feedback, please contact [Your Name] at [your.email@example.com].
+
 
 Happy maze solving! 🤖🔍
