@@ -1,8 +1,8 @@
 # Maze-Solver_Robot
 
-Welcome to the Maze Solver Robot project! This project involves building a robot capable of solving mazes autonomously by following lines using Arduino and motor drivers.
+##Welcome to the Maze Solver Robot project! This project involves building a robot capable of solving mazes autonomously by following lines using Arduino and motor drivers.
 
-Features:
+##Features:
 
 Autonomous maze-solving capability.
 Line following using sensors.
