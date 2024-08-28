@@ -6,6 +6,8 @@ Welcome to the Maze Solver Robot project! This endeavor involves designing a rob
 
 The Maze Solver Robot was inspired by the classic problem of a rat navigating a maze. Our goal was to develop a solution that could emulate this behavior and tackle the challenge of autonomous maze-solving. The project not only addresses the technical problem of maze navigation but also explores the practical application of robotics in problem-solving.
 
+![Alt Text](MAZE_SOLVER.mp4)
+
 ## Features
 
 **- Autonomous maze-solving capability.**  
